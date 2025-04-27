@@ -1,0 +1,5 @@
+train: /content/drive/MyDrive/asserts_cap1_rede_neural/train
+val: /content/drive/MyDrive/asserts_cap1_rede_neural/val
+
+nc: 2
+names: ['alface', 'maca']
