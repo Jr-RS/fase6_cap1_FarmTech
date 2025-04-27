@@ -6,7 +6,7 @@
 
 ---
 
-# 🌾 Projeto de Previsão de Rendimento de Safra - FarmTech Solutions
+# 🌾 PROJETO FASE 6 – O COMEÇO DA REDE NEURAL - FarmTech Solutions
 
 ## Nome do projeto
 Fase 6 - Cap 1 - FarmTech, Despertar da rede neural
@@ -31,6 +31,7 @@ Grupo 31
 
 ```
 
+```
 
 ---
 ## ✅ Entrega 1
