@@ -30,21 +30,48 @@ Grupo 31
 ## 📚 Estrutura de Pastas
 
 ```
-
+bash
+FarmTech_Vision/
+├── assets/
+│   ├── logo-fiap.png/
+├── data/
+│   ├── train/
+│   │    ├── arquivos de texto...
+│   │    └── images...
+│   ├── val/
+│   │    ├── arquivos de texto...
+│   │    └── images...
+│   └── test/
+│   │    ├── arquivos de texto...
+│   │    └── images...
+│   └── data.yaml
+├── JuniorSilva559451_fase6.ipynb
+├── LinkApresentacao.txt
+└── README.md
 ```
 
 ---
 ## ✅ Entrega 1
 ### 📝 Descrição
 
+O projeto desenvolvido simula a implantação de um sistema de visão computacional utilizando YOLOv5, para a identificação de dois tipos de objetos distintos: **alface** e **maçã**.
+
+O objetivo é demonstrar ao cliente da FarmTech Solutions o funcionamento, a acurácia e o potencial da tecnologia de visão computacional aplicada.
+
+- Foram utilizadas 80 imagens divididas igualmente entre os dois objetos.
+- As imagens foram rotuladas usando a plataforma Make Sense IA.
+- A divisão dos dados foi feita em 32 imagens para treino, 4 para validação e 4 para teste por classe.
+- As imagens e os arquivos de texto utilizados no treinamento foram salvos no Google Drive.
+- Três treinos foram realizados com quantidades diferentes de épocas (30, 45 e 60), analisando os impactos nos resultados.
+
 
 #### 📌 Acesse o Notebook no Google Colab:  
-[📖 Abrir no Google Colab](https://colab.research.google.com/github/Jr-RS/Fase5_Cap1_FarmTech-na-era-da-cloud-computing/blob/main/JuniorSilva_rm559451_pbl_fase5.ipynb)
+[📖 Abrir no Google Colab](https://colab.research.google.com/github/Jr-RS/fase6_cap1_FarmTech/blob/main/JuniorSilva559451_fase6.ipynb)
 
 
 ### 🎥 Vídeo Demonstrativo
 - O vídeo demonstrativo da entrega 1 do projeto está disponível no YouTube:
-[Assista aqui](https://youtu.be/_DMgZRzlnvg) 
+[Assista aqui](https://youtu.be/kiQd7i4DL4E) 
 
 ---
 
