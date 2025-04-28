@@ -77,7 +77,7 @@ O objetivo é demonstrar ao cliente da FarmTech Solutions o funcionamento, a acu
 ---
 
 ---
-## ✅ Entrega 1
+## ✅ Entrega 2
 ### 📝 Descrição
 
 Nesta segunda etapa, realizamos uma comparação entre diferentes abordagens de visão computacional para o problema de identificação de objetos (alface e maçã), visando encontrar a solução mais adequada para o cliente FarmTech Solutions.
