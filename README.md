@@ -46,6 +46,7 @@ FarmTech_Vision/
 │   │    └── imagens...
 │   └── data.yaml
 ├── JuniorSilva559451_fase6.ipynb
+├── JuniorSilva559451_fase6_entrega2.ipynb
 ├── LinkApresentacao.txt
 └── README.md
 ```
@@ -72,6 +73,30 @@ O objetivo é demonstrar ao cliente da FarmTech Solutions o funcionamento, a acu
 ### 🎥 Vídeo Demonstrativo
 - O vídeo demonstrativo da entrega 1 do projeto está disponível no YouTube:
 [Assista aqui](https://youtu.be/kiQd7i4DL4E) 
+
+---
+
+---
+## ✅ Entrega 1
+### 📝 Descrição
+
+Nesta segunda etapa, realizamos uma comparação entre diferentes abordagens de visão computacional para o problema de identificação de objetos (alface e maçã), visando encontrar a solução mais adequada para o cliente FarmTech Solutions.
+
+Foram aplicadas as seguintes estratégias:
+- **YOLO Customizada**: Utilizando o modelo treinado na Entrega 1, adaptado ao nosso conjunto de dados.
+- **YOLO Padrão (pré-treinada no COCO)**: Aplicação do modelo YOLOv5s pré-treinado, sem ajustes específicos para a base da FarmTech.
+- **CNN Desenvolvida do Zero**: Construção de uma rede convolucional simples para classificar as imagens em duas categorias.
+
+Cada abordagem foi avaliada considerando:
+- Facilidade de uso e integração;
+- Precisão do modelo;
+- Tempo de treinamento;
+- Tempo de inferência.
+
+Foi constatado que a **YOLO customizada** apresentou o melhor equilíbrio entre precisão, velocidade e aplicabilidade ao cenário da FarmTech Solutions.
+
+#### 📌 Acesse o Notebook da Entrega 2 no Google Colab:
+[📖 Abrir no Google Colab](https://colab.research.google.com/github/Jr-RS/fase6_cap1_FarmTech/blob/main/JuniorSilva559451_fase6_entrega2.ipynb)
 
 ---
 
